@@ -201,7 +201,7 @@ MonoBehaviour:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 0
-  buffetMagnitude: 0.0001041177
+  buffetMagnitude: 0.001041177
   buffetTimeFactor: 0.00019
   perpLiftVector: 0
   mirroredCurves: 1
