@@ -15,11 +15,11 @@ C:/Users/lulul/Documents/_Vault/Vtol Vr Modding/BCATKF21/KAI_KF21_Boramae/BCAT-K
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-57201
+49294
 Successfully changed project path to: C:/Users/lulul/Documents/_Vault/Vtol Vr Modding/BCATKF21/KAI_KF21_Boramae/BCAT-KF21
 C:/Users/lulul/Documents/_Vault/Vtol Vr Modding/BCATKF21/KAI_KF21_Boramae/BCAT-KF21
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 117.92 ms, found 7 plugins.
+Refreshing native plugins compatible for Editor in 111.32 ms, found 7 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.30f1 (1fb1bf06830e)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.30f1/Editor/Data/Resources/UnitySubsystems
@@ -37,91 +37,91 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.30f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.30f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.30f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56716
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56308
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.30f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.003986 seconds.
+Registered in 0.003953 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 89.64 ms, found 7 plugins.
+Refreshing native plugins compatible for Editor in 86.80 ms, found 7 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.757 seconds
+- Completed reload, in  0.726 seconds
 Domain Reload Profiling:
-	ReloadAssembly (757ms)
-		BeginReloadAssembly (97ms)
+	ReloadAssembly (726ms)
+		BeginReloadAssembly (98ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (564ms)
-			LoadAssemblies (92ms)
+		EndReloadAssembly (539ms)
+			LoadAssemblies (93ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (173ms)
+			SetupTypeCache (163ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (33ms)
-			SetupLoadedEditorAssemblies (227ms)
+			RebuildScriptCaches (32ms)
+			SetupLoadedEditorAssemblies (219ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (5ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (90ms)
-				BeforeProcessingInitializeOnLoad (9ms)
-				ProcessInitializeOnLoadAttributes (91ms)
-				ProcessInitializeOnLoadMethodAttributes (32ms)
+				RefreshPlugins (87ms)
+				BeforeProcessingInitializeOnLoad (8ms)
+				ProcessInitializeOnLoadAttributes (87ms)
+				ProcessInitializeOnLoadMethodAttributes (31ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.040108 seconds.
+Registered in 0.041284 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 96.45 ms, found 7 plugins.
+Refreshing native plugins compatible for Editor in 86.64 ms, found 7 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.971 seconds
+- Completed reload, in  1.715 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1972ms)
-		BeginReloadAssembly (206ms)
+	ReloadAssembly (1717ms)
+		BeginReloadAssembly (190ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (6ms)
+			DisableScriptedObjects (5ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (23ms)
-		EndReloadAssembly (1681ms)
-			LoadAssemblies (185ms)
+			CreateAndSetChildDomain (19ms)
+		EndReloadAssembly (1448ms)
+			LoadAssemblies (170ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (613ms)
+			SetupTypeCache (538ms)
 			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (135ms)
-			SetupLoadedEditorAssemblies (565ms)
+			RebuildScriptCaches (127ms)
+			SetupLoadedEditorAssemblies (476ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (5ms)
+				InitializePlatformSupportModulesInManaged (4ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (97ms)
-				BeforeProcessingInitializeOnLoad (123ms)
-				ProcessInitializeOnLoadAttributes (300ms)
-				ProcessInitializeOnLoadMethodAttributes (22ms)
-				AfterProcessingInitializeOnLoad (19ms)
+				RefreshPlugins (87ms)
+				BeforeProcessingInitializeOnLoad (102ms)
+				ProcessInitializeOnLoadAttributes (255ms)
+				ProcessInitializeOnLoadMethodAttributes (15ms)
+				AfterProcessingInitializeOnLoad (14ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (10ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Shader 'Ethical Motion/Particles/Lit MultiLight': fallback shader 'Hidden/Ethical Motion/Particles/Lit Alpha Blend Shadow Fallback' not found
 Shader 'Ethical Motion/Particles/Lit': fallback shader 'Hidden/Ethical Motion/Particles/Lit Alpha Blend Shadow Fallback' not found
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.10 seconds
-Refreshing native plugins compatible for Editor in 2.65 ms, found 7 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
+Refreshing native plugins compatible for Editor in 1.28 ms, found 7 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 4559 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 241.7 MB.
-System memory in use after: 241.9 MB.
+System memory in use before: 241.8 MB.
+System memory in use after: 242.0 MB.
 
 Unloading 69 unused Assets to reduce memory usage. Loaded Objects now: 5294.
-Total: 6.695300 ms (FindLiveObjects: 0.865300 ms CreateObjectMapping: 0.595900 ms MarkObjects: 5.055900 ms  DeleteObjects: 0.177100 ms)
+Total: 6.300200 ms (FindLiveObjects: 0.525600 ms CreateObjectMapping: 0.365100 ms MarkObjects: 5.256100 ms  DeleteObjects: 0.152300 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -138,25 +138,151 @@ AssetImportParameters requested are different than current active one (requested
 Received Import Request.
   path: Assets/PrefabInstance/KF21.prefab
   artifactKey: Guid(b7d83c4fd181b144e9918af879d38b90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PrefabInstance/KF21.prefab using Guid(b7d83c4fd181b144e9918af879d38b90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fca2081ccdb55e4d6055189ba025aa12') in 2.907951 seconds 
+Start importing Assets/PrefabInstance/KF21.prefab using Guid(b7d83c4fd181b144e9918af879d38b90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e51086c8ca3b51fbf3d034bd62e6ca6e') in 3.282163 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 570.190396 seconds.
-  path: Assets/KF21IG.jpg
-  artifactKey: Guid(c1c7e4d0c0541f74f836cf283ce053b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/KF21IG.jpg using Guid(c1c7e4d0c0541f74f836cf283ce053b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a118afc52efcca1ca489850162699fed') in 0.118852 seconds 
+  Time since last request: 2951.927965 seconds.
+  path: Assets/PrefabInstance/KF21.prefab
+  artifactKey: Guid(b7d83c4fd181b144e9918af879d38b90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PrefabInstance/KF21.prefab using Guid(b7d83c4fd181b144e9918af879d38b90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '011cd1b570c43307f4bc24157eaffb5c') in 2.573086 seconds 
 ========================================================================
 Received Prepare
 Shader 'Ethical Motion/Particles/Lit MultiLight': fallback shader 'Hidden/Ethical Motion/Particles/Lit Alpha Blend Shadow Fallback' not found
 Shader 'Ethical Motion/Particles/Lit': fallback shader 'Hidden/Ethical Motion/Particles/Lit Alpha Blend Shadow Fallback' not found
-Refreshing native plugins compatible for Editor in 108.10 ms, found 7 plugins.
+Refreshing native plugins compatible for Editor in 70.66 ms, found 7 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 58 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 189.6 MB.
-System memory in use after: 189.9 MB.
+System memory in use before: 191.4 MB.
+System memory in use after: 191.6 MB.
 
-Unloading 64 unused Assets to reduce memory usage. Loaded Objects now: 5310.
-Total: 10.673300 ms (FindLiveObjects: 0.595200 ms CreateObjectMapping: 0.392100 ms MarkObjects: 9.449400 ms  DeleteObjects: 0.234900 ms)
+Unloading 65 unused Assets to reduce memory usage. Loaded Objects now: 5309.
+Total: 66.614300 ms (FindLiveObjects: 0.590500 ms CreateObjectMapping: 0.565000 ms MarkObjects: 65.081200 ms  DeleteObjects: 0.375300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: e54d7ab0439102e2317fc1e4b246158d -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 711.160850 seconds.
+  path: Assets/PrefabInstance/KF21.prefab
+  artifactKey: Guid(b7d83c4fd181b144e9918af879d38b90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PrefabInstance/KF21.prefab using Guid(b7d83c4fd181b144e9918af879d38b90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a79efee7632deba8af722b221dc5b4c8') in 2.704153 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 38.367790 seconds.
+  path: Assets/PrefabInstance/KF21.prefab
+  artifactKey: Guid(b7d83c4fd181b144e9918af879d38b90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PrefabInstance/KF21.prefab using Guid(b7d83c4fd181b144e9918af879d38b90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2276eec9213de3359ab98614f86abc5c') in 1.958990 seconds 
+========================================================================
+Received Prepare
+Shader 'Ethical Motion/Particles/Lit MultiLight': fallback shader 'Hidden/Ethical Motion/Particles/Lit Alpha Blend Shadow Fallback' not found
+Shader 'Ethical Motion/Particles/Lit': fallback shader 'Hidden/Ethical Motion/Particles/Lit Alpha Blend Shadow Fallback' not found
+Refreshing native plugins compatible for Editor in 39.28 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 58 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 194.9 MB.
+System memory in use after: 195.1 MB.
+
+Unloading 65 unused Assets to reduce memory usage. Loaded Objects now: 5309.
+Total: 8.779700 ms (FindLiveObjects: 0.589200 ms CreateObjectMapping: 0.369200 ms MarkObjects: 7.681300 ms  DeleteObjects: 0.138800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: e54d7ab0439102e2317fc1e4b246158d -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 4640.495930 seconds.
+  path: Assets/PrefabInstance/KF21.prefab
+  artifactKey: Guid(b7d83c4fd181b144e9918af879d38b90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PrefabInstance/KF21.prefab using Guid(b7d83c4fd181b144e9918af879d38b90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d5e6085509ebedd35df23855f15dea3') in 3.434416 seconds 
+========================================================================
+Received Prepare
+Shader 'Ethical Motion/Particles/Lit MultiLight': fallback shader 'Hidden/Ethical Motion/Particles/Lit Alpha Blend Shadow Fallback' not found
+Shader 'Ethical Motion/Particles/Lit': fallback shader 'Hidden/Ethical Motion/Particles/Lit Alpha Blend Shadow Fallback' not found
+Refreshing native plugins compatible for Editor in 61.18 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 58 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 196.3 MB.
+System memory in use after: 196.5 MB.
+
+Unloading 65 unused Assets to reduce memory usage. Loaded Objects now: 5309.
+Total: 115.246400 ms (FindLiveObjects: 50.649300 ms CreateObjectMapping: 0.723400 ms MarkObjects: 62.744100 ms  DeleteObjects: 1.127300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: e54d7ab0439102e2317fc1e4b246158d -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 29241.275654 seconds.
+  path: Assets/PrefabInstance/KF21.prefab
+  artifactKey: Guid(b7d83c4fd181b144e9918af879d38b90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PrefabInstance/KF21.prefab using Guid(b7d83c4fd181b144e9918af879d38b90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35801eb75be17eafe7e90bd5979c3b08') in 2.826955 seconds 
+========================================================================
+Received Prepare
+Shader 'Ethical Motion/Particles/Lit MultiLight': fallback shader 'Hidden/Ethical Motion/Particles/Lit Alpha Blend Shadow Fallback' not found
+Shader 'Ethical Motion/Particles/Lit': fallback shader 'Hidden/Ethical Motion/Particles/Lit Alpha Blend Shadow Fallback' not found
+Refreshing native plugins compatible for Editor in 155.33 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 58 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 199.2 MB.
+System memory in use after: 199.5 MB.
+
+Unloading 65 unused Assets to reduce memory usage. Loaded Objects now: 5309.
+Total: 328.962200 ms (FindLiveObjects: 0.916000 ms CreateObjectMapping: 7.179500 ms MarkObjects: 320.695400 ms  DeleteObjects: 0.169000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: e54d7ab0439102e2317fc1e4b246158d -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 4102.479867 seconds.
+  path: Assets/PrefabInstance/KF21.prefab
+  artifactKey: Guid(b7d83c4fd181b144e9918af879d38b90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PrefabInstance/KF21.prefab using Guid(b7d83c4fd181b144e9918af879d38b90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d2deb5272ab61ad8b777ebdaf1184f7') in 3.617054 seconds 
+========================================================================
+Received Prepare
+Shader 'Ethical Motion/Particles/Lit MultiLight': fallback shader 'Hidden/Ethical Motion/Particles/Lit Alpha Blend Shadow Fallback' not found
+Shader 'Ethical Motion/Particles/Lit': fallback shader 'Hidden/Ethical Motion/Particles/Lit Alpha Blend Shadow Fallback' not found
+Refreshing native plugins compatible for Editor in 40.38 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 58 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 200.8 MB.
+System memory in use after: 201.0 MB.
+
+Unloading 65 unused Assets to reduce memory usage. Loaded Objects now: 5309.
+Total: 15.462700 ms (FindLiveObjects: 0.759100 ms CreateObjectMapping: 0.487000 ms MarkObjects: 14.087500 ms  DeleteObjects: 0.128000 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -173,14 +299,14 @@ AssetImportParameters requested are different than current active one (requested
 Received Prepare
 Shader 'Ethical Motion/Particles/Lit MultiLight': fallback shader 'Hidden/Ethical Motion/Particles/Lit Alpha Blend Shadow Fallback' not found
 Shader 'Ethical Motion/Particles/Lit': fallback shader 'Hidden/Ethical Motion/Particles/Lit Alpha Blend Shadow Fallback' not found
-Refreshing native plugins compatible for Editor in 47.70 ms, found 7 plugins.
+Refreshing native plugins compatible for Editor in 84.61 ms, found 7 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 58 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 189.7 MB.
-System memory in use after: 190.0 MB.
+System memory in use before: 200.7 MB.
+System memory in use after: 201.0 MB.
 
-Unloading 58 unused Assets to reduce memory usage. Loaded Objects now: 5310.
-Total: 17.703400 ms (FindLiveObjects: 0.847500 ms CreateObjectMapping: 0.443200 ms MarkObjects: 16.233300 ms  DeleteObjects: 0.177500 ms)
+Unloading 58 unused Assets to reduce memory usage. Loaded Objects now: 5309.
+Total: 9.936900 ms (FindLiveObjects: 0.840200 ms CreateObjectMapping: 0.446100 ms MarkObjects: 8.527600 ms  DeleteObjects: 0.121100 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -193,4 +319,310 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 36690.583154 seconds.
+  path: Assets/PrefabInstance/KF21.prefab
+  artifactKey: Guid(b7d83c4fd181b144e9918af879d38b90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PrefabInstance/KF21.prefab using Guid(b7d83c4fd181b144e9918af879d38b90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97028c5c1041b9b4f1d873ba76d52d66') in 2.138635 seconds 
+========================================================================
+Received Prepare
+Shader 'Ethical Motion/Particles/Lit MultiLight': fallback shader 'Hidden/Ethical Motion/Particles/Lit Alpha Blend Shadow Fallback' not found
+Shader 'Ethical Motion/Particles/Lit': fallback shader 'Hidden/Ethical Motion/Particles/Lit Alpha Blend Shadow Fallback' not found
+Refreshing native plugins compatible for Editor in 40.26 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 58 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 202.4 MB.
+System memory in use after: 202.7 MB.
+
+Unloading 65 unused Assets to reduce memory usage. Loaded Objects now: 5309.
+Total: 9.878100 ms (FindLiveObjects: 0.574800 ms CreateObjectMapping: 0.457600 ms MarkObjects: 7.589900 ms  DeleteObjects: 1.254000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: e54d7ab0439102e2317fc1e4b246158d -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 2945.489876 seconds.
+  path: Assets/PrefabInstance/KF21.prefab
+  artifactKey: Guid(b7d83c4fd181b144e9918af879d38b90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PrefabInstance/KF21.prefab using Guid(b7d83c4fd181b144e9918af879d38b90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4597b5f8e92d591ad9c57cd7b2df5c8') in 4.385671 seconds 
+========================================================================
+Received Prepare
+Shader 'Ethical Motion/Particles/Lit MultiLight': fallback shader 'Hidden/Ethical Motion/Particles/Lit Alpha Blend Shadow Fallback' not found
+Shader 'Ethical Motion/Particles/Lit': fallback shader 'Hidden/Ethical Motion/Particles/Lit Alpha Blend Shadow Fallback' not found
+Refreshing native plugins compatible for Editor in 2806.78 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 58 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 203.8 MB.
+System memory in use after: 204.1 MB.
+
+Unloading 65 unused Assets to reduce memory usage. Loaded Objects now: 5309.
+Total: 265.519500 ms (FindLiveObjects: 0.713600 ms CreateObjectMapping: 0.425600 ms MarkObjects: 264.090900 ms  DeleteObjects: 0.287400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: e54d7ab0439102e2317fc1e4b246158d -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 7951.625848 seconds.
+  path: Assets/PrefabInstance/KF21.prefab
+  artifactKey: Guid(b7d83c4fd181b144e9918af879d38b90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PrefabInstance/KF21.prefab using Guid(b7d83c4fd181b144e9918af879d38b90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '353ebad7718679a59a34d0b078a5ee7a') in 3.040464 seconds 
+========================================================================
+Received Prepare
+Shader 'Ethical Motion/Particles/Lit MultiLight': fallback shader 'Hidden/Ethical Motion/Particles/Lit Alpha Blend Shadow Fallback' not found
+Shader 'Ethical Motion/Particles/Lit': fallback shader 'Hidden/Ethical Motion/Particles/Lit Alpha Blend Shadow Fallback' not found
+Refreshing native plugins compatible for Editor in 3354.28 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 58 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 205.3 MB.
+System memory in use after: 205.5 MB.
+
+Unloading 65 unused Assets to reduce memory usage. Loaded Objects now: 5309.
+Total: 308.472400 ms (FindLiveObjects: 6.075800 ms CreateObjectMapping: 2.102400 ms MarkObjects: 300.076000 ms  DeleteObjects: 0.216000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: e54d7ab0439102e2317fc1e4b246158d -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 17690.164374 seconds.
+  path: Assets/PrefabInstance/KF21.prefab
+  artifactKey: Guid(b7d83c4fd181b144e9918af879d38b90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PrefabInstance/KF21.prefab using Guid(b7d83c4fd181b144e9918af879d38b90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31cd2d975d99122cf22b8f4ebfcb8482') in 4.583327 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 536.976919 seconds.
+  path: Assets/PrefabInstance/KF21.prefab
+  artifactKey: Guid(b7d83c4fd181b144e9918af879d38b90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PrefabInstance/KF21.prefab using Guid(b7d83c4fd181b144e9918af879d38b90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6b5b81ad008a6a2c6388720cdd296b7') in 2.079333 seconds 
+========================================================================
+Received Prepare
+Shader 'Ethical Motion/Particles/Lit MultiLight': fallback shader 'Hidden/Ethical Motion/Particles/Lit Alpha Blend Shadow Fallback' not found
+Shader 'Ethical Motion/Particles/Lit': fallback shader 'Hidden/Ethical Motion/Particles/Lit Alpha Blend Shadow Fallback' not found
+Refreshing native plugins compatible for Editor in 169.22 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 58 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 211.0 MB.
+System memory in use after: 211.3 MB.
+
+Unloading 65 unused Assets to reduce memory usage. Loaded Objects now: 5309.
+Total: 1808.757700 ms (FindLiveObjects: 0.935500 ms CreateObjectMapping: 0.488800 ms MarkObjects: 1807.197700 ms  DeleteObjects: 0.133900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: e54d7ab0439102e2317fc1e4b246158d -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1464.896163 seconds.
+  path: Assets/PrefabInstance/KF21.prefab
+  artifactKey: Guid(b7d83c4fd181b144e9918af879d38b90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PrefabInstance/KF21.prefab using Guid(b7d83c4fd181b144e9918af879d38b90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbf18c27601a889fbd51342478ef1269') in 3.909535 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 733.611541 seconds.
+  path: Assets/PrefabInstance/KF21.prefab
+  artifactKey: Guid(b7d83c4fd181b144e9918af879d38b90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PrefabInstance/KF21.prefab using Guid(b7d83c4fd181b144e9918af879d38b90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93f4992bac4e665d6e38f7a56d0325c1') in 2.153284 seconds 
+========================================================================
+Received Prepare
+Shader 'Ethical Motion/Particles/Lit MultiLight': fallback shader 'Hidden/Ethical Motion/Particles/Lit Alpha Blend Shadow Fallback' not found
+Shader 'Ethical Motion/Particles/Lit': fallback shader 'Hidden/Ethical Motion/Particles/Lit Alpha Blend Shadow Fallback' not found
+Refreshing native plugins compatible for Editor in 54.16 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 58 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 213.9 MB.
+System memory in use after: 214.2 MB.
+
+Unloading 65 unused Assets to reduce memory usage. Loaded Objects now: 5309.
+Total: 80.060300 ms (FindLiveObjects: 2.619500 ms CreateObjectMapping: 0.682600 ms MarkObjects: 76.602400 ms  DeleteObjects: 0.153500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: e54d7ab0439102e2317fc1e4b246158d -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 2337.619805 seconds.
+  path: Assets/PrefabInstance/KF21.prefab
+  artifactKey: Guid(b7d83c4fd181b144e9918af879d38b90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PrefabInstance/KF21.prefab using Guid(b7d83c4fd181b144e9918af879d38b90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1e37267d51960de4c0b16e8676c4465') in 2.818162 seconds 
+========================================================================
+Received Prepare
+Shader 'Ethical Motion/Particles/Lit MultiLight': fallback shader 'Hidden/Ethical Motion/Particles/Lit Alpha Blend Shadow Fallback' not found
+Shader 'Ethical Motion/Particles/Lit': fallback shader 'Hidden/Ethical Motion/Particles/Lit Alpha Blend Shadow Fallback' not found
+Refreshing native plugins compatible for Editor in 760.61 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 58 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 215.4 MB.
+System memory in use after: 215.6 MB.
+
+Unloading 65 unused Assets to reduce memory usage. Loaded Objects now: 5309.
+Total: 542.611000 ms (FindLiveObjects: 0.872000 ms CreateObjectMapping: 0.733500 ms MarkObjects: 540.836400 ms  DeleteObjects: 0.167000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: e54d7ab0439102e2317fc1e4b246158d -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1129.640818 seconds.
+  path: Assets/PrefabInstance/KF21.prefab
+  artifactKey: Guid(b7d83c4fd181b144e9918af879d38b90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PrefabInstance/KF21.prefab using Guid(b7d83c4fd181b144e9918af879d38b90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31d7224dfe4904bcbb2e2b3876db145e') in 11.944686 seconds 
+========================================================================
+Received Prepare
+Shader 'Ethical Motion/Particles/Lit MultiLight': fallback shader 'Hidden/Ethical Motion/Particles/Lit Alpha Blend Shadow Fallback' not found
+Shader 'Ethical Motion/Particles/Lit': fallback shader 'Hidden/Ethical Motion/Particles/Lit Alpha Blend Shadow Fallback' not found
+Refreshing native plugins compatible for Editor in 45.34 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 58 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 216.8 MB.
+System memory in use after: 217.1 MB.
+
+Unloading 65 unused Assets to reduce memory usage. Loaded Objects now: 5309.
+Total: 5.505100 ms (FindLiveObjects: 0.390200 ms CreateObjectMapping: 0.241000 ms MarkObjects: 4.780500 ms  DeleteObjects: 0.092500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: e54d7ab0439102e2317fc1e4b246158d -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Shader 'Ethical Motion/Particles/Lit MultiLight': fallback shader 'Hidden/Ethical Motion/Particles/Lit Alpha Blend Shadow Fallback' not found
+Shader 'Ethical Motion/Particles/Lit': fallback shader 'Hidden/Ethical Motion/Particles/Lit Alpha Blend Shadow Fallback' not found
+Refreshing native plugins compatible for Editor in 48.18 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 58 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 216.9 MB.
+System memory in use after: 217.2 MB.
+
+Unloading 58 unused Assets to reduce memory usage. Loaded Objects now: 5309.
+Total: 12.855100 ms (FindLiveObjects: 1.129900 ms CreateObjectMapping: 0.798200 ms MarkObjects: 10.757200 ms  DeleteObjects: 0.146600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: e54d7ab0439102e2317fc1e4b246158d -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Shader 'Ethical Motion/Particles/Lit MultiLight': fallback shader 'Hidden/Ethical Motion/Particles/Lit Alpha Blend Shadow Fallback' not found
+Shader 'Ethical Motion/Particles/Lit': fallback shader 'Hidden/Ethical Motion/Particles/Lit Alpha Blend Shadow Fallback' not found
+Refreshing native plugins compatible for Editor in 62.00 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 58 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 217.1 MB.
+System memory in use after: 217.4 MB.
+
+Unloading 58 unused Assets to reduce memory usage. Loaded Objects now: 5309.
+Total: 31.254400 ms (FindLiveObjects: 1.807700 ms CreateObjectMapping: 1.637600 ms MarkObjects: 13.359800 ms  DeleteObjects: 14.447100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: e54d7ab0439102e2317fc1e4b246158d -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1604.200594 seconds.
+  path: Assets/PrefabInstance/NBDA/frenchmissiles/Resources/weapons/missiles/mad-4 missile.prefab
+  artifactKey: Guid(db2746cfe93185940acd0773b5f6d812) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PrefabInstance/NBDA/frenchmissiles/Resources/weapons/missiles/mad-4 missile.prefab using Guid(db2746cfe93185940acd0773b5f6d812) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d6a8e0e74052454ca5c964ca6da5bf2') in 0.201115 seconds 
+========================================================================
+Received Prepare
+Shader 'Ethical Motion/Particles/Lit MultiLight': fallback shader 'Hidden/Ethical Motion/Particles/Lit Alpha Blend Shadow Fallback' not found
+Shader 'Ethical Motion/Particles/Lit': fallback shader 'Hidden/Ethical Motion/Particles/Lit Alpha Blend Shadow Fallback' not found
+Refreshing native plugins compatible for Editor in 43.61 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 58 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 217.5 MB.
+System memory in use after: 217.7 MB.
+
+Unloading 58 unused Assets to reduce memory usage. Loaded Objects now: 5309.
+Total: 9.783300 ms (FindLiveObjects: 0.598300 ms CreateObjectMapping: 0.378000 ms MarkObjects: 8.684500 ms  DeleteObjects: 0.121200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: e54d7ab0439102e2317fc1e4b246158d -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 158.855225 seconds.
+  path: Assets/PrefabInstance/NBDA/frenchmissiles/Resources/weapons/missiles/SideARM.prefab
+  artifactKey: Guid(433f67fe24bcf3248b74280473f2725b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PrefabInstance/NBDA/frenchmissiles/Resources/weapons/missiles/SideARM.prefab using Guid(433f67fe24bcf3248b74280473f2725b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b766b6d4fb4ea99383274a7a6817c1f8') in 0.102935 seconds 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
